@@ -15,7 +15,7 @@ const Support = () => {
                                 </div>
                                 <div className="col-8">
                                     <div className="support-header">
-                                        <a href="#" className="link">Let's talk&nbsp;
+                                        <a href="/" className="link">Let's talk&nbsp;
                                             <span className="image-holder-2"><img className="img-fluid" src="https://img.icons8.com/small/23/314e83/long-arrow-right.png" alt=""/></span>
                                         </a>
                                         <div className="text">non ipsum cupidatat cupidatat voluptate commodo
@@ -33,7 +33,7 @@ const Support = () => {
                                 </div>
                                 <div className="col-8">
                                     <div className="support-header">
-                                        <a href="#" className="link">Go to support center&nbsp;
+                                        <a href="/" className="link">Go to support center&nbsp;
                                             <span className="image-holder-2"><img className="img-fluid" src="https://img.icons8.com/small/23/314e83/long-arrow-right.png" alt=""/></span>
                                         </a>
                                         <div className="text">non ipsum cupidatat cupidatat voluptate commodo
