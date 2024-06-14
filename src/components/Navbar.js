@@ -30,7 +30,7 @@ const Navbar = (props) => {
                             <Link className="nav-link" aria-current="page" to={props.direction}>{props.leadItemName}</Link>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" aria-expanded="false">
+                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="/" role="button" aria-expanded="false">
                                 Hosting Services
                             </a>
                             <ul className="dropdown-menu custom-dropdown-menu"  aria-labelledby="navbarDropdown">
@@ -70,10 +70,10 @@ const Navbar = (props) => {
                                     <div className="items">
                                         <div className="row">
                                             <div className="col-md-6 col-12">
-                                                <a href="#" className="link">Hustbee Features</a>
+                                                <a href="/" className="link">Hustbee Features</a>
                                             </div>
                                             <div className="col-md-6 col-12">
-                                                <a href="#" className="link">Website Builder</a>
+                                                <a href="/" className="link">Website Builder</a>
                                             </div>
                                         </div>
                                     </div>
@@ -84,16 +84,16 @@ const Navbar = (props) => {
                             <Link className={'nav-link' + ` ${props.activateLink}`} to="/domainnames">Domains</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Support</a>
+                            <a className="nav-link" href="/">Support</a>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" aria-expanded="false" href="#">Pages</a>
+                            <a className="nav-link dropdown-toggle" aria-expanded="false" href="/">Pages</a>
                             <div className="dropdown-menu custom-dropdown-menu2">
                                 <div className="row list-style">
                                     <div className="col-12">
-                                        <a href="#" className="link">About</a>
-                                        <a href="#" className="link">Blog</a>
-                                        <a href="#" className="link">Privacy</a>
+                                        <a href="/" className="link">About</a>
+                                        <a href="/" className="link">Blog</a>
+                                        <a href="/" className="link">Privacy</a>
                                     </div>
                                 </div>
                             </div>
@@ -108,7 +108,7 @@ const Navbar = (props) => {
                             <div className="chat-info">Chat Available</div>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link chat-area" href="#">
+                            <a className="nav-link chat-area" href="/">
                                 <img src={chat} alt=""/>
                             </a>
                         </li>
@@ -127,7 +127,7 @@ const Navbar = (props) => {
                             <Link className="nav-link" aria-current="page" to={props.direction}>{props.leadItemName}</Link>
                         </li>
                         <li className="nav-item dropdown ">
-                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="/" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Hosting Services
                             </a>
                             <ul className="dropdown-menu custom-dropdown-menu" aria-labelledby="navbarDropdown">
@@ -167,10 +167,10 @@ const Navbar = (props) => {
                                     <div className="items">
                                         <div className="row">
                                             <div className="col-md-6 col-sm-12">
-                                                <a href="#" className="link">Hustbee Features</a>
+                                                <a href="/" className="link">Hustbee Features</a>
                                             </div>
                                             <div className="col-md-6 col-sm-12">
-                                                <a href="#" className="link">Website Builder</a>
+                                                <a href="/" className="link">Website Builder</a>
                                             </div>
                                         </div>
                                     </div>
@@ -181,16 +181,16 @@ const Navbar = (props) => {
                             <Link className="nav-link" to="/domainnames">Domains</Link>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Support</a>
+                            <a className="nav-link" href="/">Support</a>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" aria-expanded="false"  data-bs-toggle="dropdown" href="#">Pages</a>
+                            <a className="nav-link dropdown-toggle" aria-expanded="false"  data-bs-toggle="dropdown" href="/">Pages</a>
                             <div className="dropdown-menu custom-dropdown-menu2">
                                 <div className="row list-style">
                                     <div className="col-sm-12 col-xs-12">
-                                        <a href="#" className="link">About</a>
-                                        <a href="#" className="link">Blog</a>
-                                        <a href="#" className="link">Privacy</a>
+                                        <a href="/" className="link">About</a>
+                                        <a href="/" className="link">Blog</a>
+                                        <a href="/" className="link">Privacy</a>
                                     </div>
                                 </div>
                             </div>
@@ -203,7 +203,7 @@ const Navbar = (props) => {
                             <div className="chat-info">Chat Available</div>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link chat-area" href="#">
+                            <a className="nav-link chat-area" href="/">
                                 <img src={chat} alt=""/>
                             </a>
                         </li>
