@@ -44,7 +44,7 @@ const HSPricing = (props) => {
                                             <span className="duration">/mo</span>
                                         </div>
                                     </div>
-                                    <a href="#" className="pricing-link hs-btn">Buy now</a>
+                                    <a href="/" className="pricing-link hs-btn">Buy now</a>
                                     <ul className="feature-list text-center">
                                         <li className="feature">10GB Storage</li>
                                         <li className="feature">1 Domain name</li>
@@ -64,7 +64,7 @@ const HSPricing = (props) => {
                                             <span className="duration">/mo</span>
                                         </div>
                                     </div>
-                                    <a href="#" className="pricing-link hs-btn">Buy now</a>
+                                    <a href="/" className="pricing-link hs-btn">Buy now</a>
                                     <ul className="feature-list text-center">
                                         <li className="feature">10GB Storage</li>
                                         <li className="feature">1 Domain name</li>
@@ -84,7 +84,7 @@ const HSPricing = (props) => {
                                             <span className="duration">/mo</span>
                                         </div>
                                     </div>
-                                    <a href="#" className="pricing-link hs-btn">Buy now</a>
+                                    <a href="/" className="pricing-link hs-btn">Buy now</a>
                                     <ul className="feature-list text-center">
                                         <li className="feature">10GB Storage</li>
                                         <li className="feature">1 Domain name</li>
