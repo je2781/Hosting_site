@@ -24,7 +24,7 @@ const HSPricing = (props) => {
 
     }
     return(
-        <div id="hs-pricing" className="container-fluid d-none d-lg-block">
+        <div id="hs-pricing" className="container-fluid">
             <div className="row">
                 <div className="col-12">
                     <div className="container">
@@ -34,7 +34,7 @@ const HSPricing = (props) => {
                             <div className="fd">Annual bill</div>
                         </div>
                         <div className="row">
-                            <div className="col-lg-4 d-none d-lg-block">
+                            <div className="col-12 col-lg-4 d-block">
                                 <div className="pricing-1 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">Starter Plan</div>
@@ -54,7 +54,7 @@ const HSPricing = (props) => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-lg-4 d-none d-lg-block">
+                            <div className="col-12 col-lg-4 d-block">
                                 <div className="pricing-2 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">Business Plan</div>
@@ -74,7 +74,7 @@ const HSPricing = (props) => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-lg-4 d-none d-lg-block">
+                            <div className="col-12 col-lg-4 d-block">
                                 <div className="pricing-3 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">VIP Plan</div>
