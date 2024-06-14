@@ -20,7 +20,7 @@ const DNVDomainSearch = (props) => {
             <div className="container">
                 <div className="section-body row">
                     <div className="offset-2 col-10">
-                        <form name="sentQuery" className="search-form" onSubmit={handleSubmit}>
+                        <form name="sentQuery" className="search-form d-flex flex-lg-row flex-column gap-lg-2" onSubmit={handleSubmit}>
                             <input 
                             name="domain"
                             className="domain-search" 
