@@ -6,7 +6,7 @@ const Features = (props) => {
                 <div className="row rtl-row flex-row-reverse">
                     <div className="col-md-5 col-12 image-box">
                         <div className="image-holder">
-                            <img alt="image" className="img-fluid" src={props.image1}/>
+                            <img className="img-fluid" src={props.image1}/>
                         </div>
                     </div>
                     <div className="col-md-7 col-12">
