@@ -81,7 +81,7 @@ const Navbar = (props) => {
                             </ul>
                         </li>
                         <li className="nav-item">
-                            <Link className='nav-link' + ` ${props.activateLink}` to="/domainnames">Domains</Link>
+                            <Link className={`nav-link ${props.activateLink}`} to="/domainnames">Domains</Link>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="/">Support</a>
