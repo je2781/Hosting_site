@@ -33,7 +33,7 @@ const Hero = () => {
                                 <div className="slide-info">
                                     <p className="m-text">Outstanding Web<br/>Hosting for you.</p>
                                     <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                    <a className="hs-btn" href="#">
+                                    <a className="hs-btn" href="/">
                                         Hosting Services
                                     </a>
                                 </div>
@@ -51,7 +51,7 @@ const Hero = () => {
                                 <div className="slide-info">
                                     <p className="m-text">Create your first<br/>Website today.</p>
                                     <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                    <a className="hs-btn" href="#">
+                                    <a className="hs-btn" href="/">
                                         Create now
                                     </a>
                                 </div>
@@ -69,7 +69,7 @@ const Hero = () => {
                                 <div className="slide-info">
                                     <p className="m-text">Build your site<br/>With page builder.</p>
                                     <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                    <a className="hs-btn" href="#">
+                                    <a className="hs-btn" href="/">
                                         Learn more
                                     </a>
                                 </div>
@@ -108,7 +108,7 @@ const Hero = () => {
                                 <div className="slide-info">
                                     <p className="m-text">Outstanding Web<br/>Hosting for you.</p>
                                     <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                    <a className="hs-btn" href="#">Hosting Services</a>
+                                    <a className="hs-btn" href="/">Hosting Services</a>
                                 </div>
                             </div>
                         </div>
@@ -126,7 +126,7 @@ const Hero = () => {
                             <div className="slide-info">
                                 <p className="m-text">Create your first<br/>Website today.</p>
                                 <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                <a className="hs-btn" href="#">
+                                <a className="hs-btn" href="/">
                                     Create now
                                 </a>
                             </div>
@@ -146,7 +146,7 @@ const Hero = () => {
                                 <div className="slide-info">
                                     <p className="m-text">Build your site With<br/>page builder.</p>
                                     <p className="b-text">Starting at only <strong>$2.38/mo*</strong></p>
-                                    <a className="hs-btn" href="#">
+                                    <a className="hs-btn" href="/">
                                         Learn more
                                     </a>
                                 </div>
