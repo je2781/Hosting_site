@@ -33,8 +33,8 @@ const HSPricing = (props) => {
                             <button type="button" onClick={pricingPlan} className="btn"></button>
                             <div className="fd">Annual bill</div>
                         </div>
-                        <div className="row">
-                            <div className="col-12 col-lg-4 d-block">
+                        <div className="row d-none d-lg-block">
+                            <div className="col-lg-4 d-block">
                                 <div className="pricing-1 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">Starter Plan</div>
@@ -54,7 +54,7 @@ const HSPricing = (props) => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-12 col-lg-4 d-block">
+                            <div className="col-lg-4 d-block">
                                 <div className="pricing-2 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">Business Plan</div>
@@ -74,7 +74,7 @@ const HSPricing = (props) => {
                                     </ul>
                                 </div>
                             </div>
-                            <div className="col-12 col-lg-4 d-block">
+                            <div className="col-lg-4 d-block">
                                 <div className="pricing-3 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
                                         <div className="text text-center">VIP Plan</div>
