@@ -7,7 +7,7 @@ const DomainTable = () => {
                 <div className="row section-header">
                     <div className="col-12 d-flex justify-content-center">
                         <div className="image-holder">
-                            <img className="img-fluid" src={domainExt} alt='domain'></img>
+                            <img className="img-fluid" src={domainExt} alt='domains'></img>
                         </div>
                     </div>
                     <div className="col-12 d-flex justify-content-center">
@@ -54,7 +54,7 @@ const DomainTable = () => {
                             <div className="td">$9.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row3">
@@ -74,7 +74,7 @@ const DomainTable = () => {
                             <div className="td">$9.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row4">
@@ -94,7 +94,7 @@ const DomainTable = () => {
                             <div className="td">$9.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row5">
@@ -114,7 +114,7 @@ const DomainTable = () => {
                             <div className="td">$10.39</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row6">
@@ -134,7 +134,7 @@ const DomainTable = () => {
                            <div className="td">$14.09</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row7">
@@ -154,7 +154,7 @@ const DomainTable = () => {
                             <div className="td">$10.39</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row8">
@@ -174,7 +174,7 @@ const DomainTable = () => {
                             <div className="td">$38.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row9">
@@ -194,7 +194,7 @@ const DomainTable = () => {
                             <div className="td">$38.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>
                     <div className="row row10">
@@ -214,7 +214,7 @@ const DomainTable = () => {
                             <div className="td">$38.99</div>
                         </div>
                         <div className="col-2 col-nth col6">
-                            <div className="td"><a href="#" className="hs-btn link">REGISTER</a></div>
+                            <div className="td"><a href="/" className="hs-btn link">REGISTER</a></div>
                         </div>
                     </div>                                
                 </div>
