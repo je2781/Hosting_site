@@ -24,7 +24,7 @@ const HSPricing = (props) => {
 
     }
     return(
-        <div id="hs-pricing" className="container-fluid">
+        <div id="hs-pricing" className="container-fluid d-lg-block d-none">
             <div className="row">
                 <div className="col-12">
                     <div className="container">
@@ -33,7 +33,7 @@ const HSPricing = (props) => {
                             <button type="button" onClick={pricingPlan} className="btn"></button>
                             <div className="fd">Annual bill</div>
                         </div>
-                        <div className="row d-none d-lg-block">
+                        <div className="row">
                             <div className="col-lg-4 d-block">
                                 <div className="pricing-1 pricing-box inner text-center">
                                     <div className="pricing-body text-center">
