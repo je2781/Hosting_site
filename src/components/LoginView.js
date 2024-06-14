@@ -29,7 +29,7 @@ const LoginView = (props) => {
                             </div> 
                         </div>
                         <div className="section-footer d-flex justify-content-between">
-                            <a href="#">Forgot your password?</a>
+                            <a href="/">Forgot your password?</a>
                             <button type="submit" className="btn">Login</button>
                         </div>
                     </form>
