@@ -6,7 +6,7 @@ const Features = (props) => {
                 <div className="row rtl-row flex-row-reverse">
                     <div className="col-md-5 col-12 image-box">
                         <div className="image-holder">
-                            <img className="img-fluid" src={props.image1}/>
+                            <img className="img-fluid" src={props.image1} alt="image1"/>
                         </div>
                     </div>
                     <div className="col-md-7 col-12">
@@ -22,7 +22,7 @@ const Features = (props) => {
                 <div className="row default-row">
                     <div className="col-md-5 col-12 image-box">
                         <div className="image-holder">
-                            <img alt="image" className="img-fluid" src={props.image2}/>
+                            <img alt="image2" className="img-fluid" src={props.image2}/>
                         </div>
                     </div>
                     <div className="col-12 col-md-5 offset-md-2">
@@ -38,7 +38,7 @@ const Features = (props) => {
                 <div className="row rtl-row flex-row-reverse">
                     <div className="col-md-5 col-12 image-box">
                         <div className="image-holder">
-                            <img alt="image" className="img-fluid" src={props.image3}/>
+                            <img alt="image3" className="img-fluid" src={props.image3}/>
                         </div>
                     </div>
                     <div className="col-md-7 col-12">
@@ -57,7 +57,7 @@ const Features = (props) => {
                     <div className="col-sm-12">
                         <div className="container image-box">
                             <div className="image-holder">
-                                <img alt="image" className="img-fluid" src={props.image1}/>
+                                <img alt="image1" className="img-fluid" src={props.image1}/>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const Features = (props) => {
                     <div className="col-sm-12">
                         <div className="container image-box">
                             <div className="image-holder">
-                                <img alt="image" className="img-fluid" src={props.image2}/>
+                                <img alt="image2" className="img-fluid" src={props.image2}/>
                             </div>
                         </div>
                     </div>
@@ -93,7 +93,7 @@ const Features = (props) => {
                     <div className="col-sm-12">
                         <div className="container image-box">
                             <div className="image-holder">
-                                <img alt="image" className="img-fluid" src={props.image3}/>
+                                <img alt="image3" className="img-fluid" src={props.image3}/>
                             </div>
                         </div>
                     </div>
