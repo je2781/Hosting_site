@@ -7,7 +7,7 @@ const DomainTable = () => {
                 <div className="row section-header">
                     <div className="col-12 d-flex justify-content-center">
                         <div className="image-holder">
-                            <img className="img-fluid" src={domainExt}></img>
+                            <img className="img-fluid" src={domainExt} alt='domain'></img>
                         </div>
                     </div>
                     <div className="col-12 d-flex justify-content-center">
