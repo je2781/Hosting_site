@@ -24,7 +24,7 @@ const HSPricing = (props) => {
 
     }
     return(
-        <div id="hs-pricing" className="container-fluid">
+        <div id="hs-pricing" className="container-fluid d-none d-lg-block">
             <div className="row">
                 <div className="col-12">
                     <div className="container">
