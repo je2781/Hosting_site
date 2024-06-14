@@ -127,7 +127,7 @@ const Navbar = (props) => {
                             <Link className="nav-link" aria-current="page" to={props.direction}>{props.leadItemName}</Link>
                         </li>
                         <li className="nav-item dropdown ">
-                            <a className="nav-link dropdown-toggle" id="navbarDropdown" aria-haspopup="true" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <a className="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Hosting Services
                             </a>
                             <ul className="dropdown-menu custom-dropdown-menu" aria-labelledby="navbarDropdown">
@@ -184,7 +184,7 @@ const Navbar = (props) => {
                             <a className="nav-link" href="#">Support</a>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" aria-expanded="false" aria-haspopup="true" data-bs-toggle="dropdown" href="#">Pages</a>
+                            <a className="nav-link dropdown-toggle" aria-expanded="false"  data-bs-toggle="dropdown" href="#">Pages</a>
                             <div className="dropdown-menu custom-dropdown-menu2">
                                 <div className="row list-style">
                                     <div className="col-sm-12 col-xs-12">
