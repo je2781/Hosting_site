@@ -35,7 +35,7 @@ function App() {
       socket.on('receivedProfile', (data) => {
         console.log(data)
       })
-  },[socket])
+  },[])
 
   return (
     <>
